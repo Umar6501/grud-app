@@ -1,6 +1,10 @@
-import "./home.scss";
+import "./Home.scss";
 const Home = () => {
-  return <div>Home</div>;
+  return (
+    <aside>
+      <h1>{/* лдлдллы */}</h1>
+    </aside>
+  );
 };
 
 export default Home;
